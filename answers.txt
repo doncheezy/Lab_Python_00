@@ -1,0 +1,12 @@
+Answers 
+Question 1
+5.5
+Question 2
+7625597484987
+Question 3
+334206837441656786944L
+Question 4
+the average time per meter is 0.34177215189873417 seconds per meter or 
+the average time per meter is 0.00569620253164557 minutes per meter
+Question 5
+the shortest distance between the two of us is 34.31521347500001 miles
